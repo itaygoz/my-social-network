@@ -1,0 +1,928 @@
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"User validation failed: lastName: Path `lastName` is required., firstName: Path `firstName` is required. ValidationError: lastName: Path `lastName` is required., firstName: Path `firstName` is required.","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property '_id' of undefined TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property '_id' of undefined TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property '_id' of undefined TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Converting circular structure to JSON\n    --> starting at object with constructor 'NativeTopology'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'topology' closes the circle TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'NativeTopology'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'topology' closes the circle","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property '_id' of undefined TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"winston.debug is not a function TypeError: winston.debug is not a function","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"winston.info is not a function TypeError: winston.info is not a function","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"post.findByIdAndRemove is not a function TypeError: post.findByIdAndRemove is not a function","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"post.findByIdAndDelete is not a function TypeError: post.findByIdAndDelete is not a function","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'findById' of undefined TypeError: Cannot read property 'findById' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot set property '_id' of undefined TypeError: Cannot set property '_id' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot set property '_id' of undefined TypeError: Cannot set property '_id' of undefined","level":"error"}
+{"message":"Cannot set property '_id' of undefined TypeError: Cannot set property '_id' of undefined","level":"error"}
+{"message":"Cannot set property '_id' of undefined TypeError: Cannot set property '_id' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cast to Embedded failed for value \"5f0c2d80931e7b31600a5351\" at path \"user\" for model \"Post\" CastError: Cast to Embedded failed for value \"5f0c2d80931e7b31600a5351\" at path \"user\" for model \"Post\"","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot set property '_id' of undefined TypeError: Cannot set property '_id' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot set property '_id' of undefined TypeError: Cannot set property '_id' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'push' of undefined TypeError: Cannot read property 'push' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'push' of undefined TypeError: Cannot read property 'push' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property '$push' of undefined TypeError: Cannot read property '$push' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'add' of undefined TypeError: Cannot read property 'add' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Tried to set nested object field `user` to array `{ _id: 5f0c2d80931e7b31600a5351, firstName: 'Itay', lastName: 'Goz' }` and strict mode is set to throw. ObjectExpectedError: Tried to set nested object field `user` to array `{ _id: 5f0c2d80931e7b31600a5351, firstName: 'Itay', lastName: 'Goz' }` and strict mode is set to throw.","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Tried to set nested object field `user` to array `{ _id: 5f0c2d80931e7b31600a5351, firstName: 'Itay', lastName: 'Goz' }` and strict mode is set to throw. ObjectExpectedError: Tried to set nested object field `user` to array `{ _id: 5f0c2d80931e7b31600a5351, firstName: 'Itay', lastName: 'Goz' }` and strict mode is set to throw.","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Tried to set nested object field `user` to array `{ _id: 5f0c2d80931e7b31600a5351, firstName: 'Itay', lastName: 'Goz' }` and strict mode is set to throw. ObjectExpectedError: Tried to set nested object field `user` to array `{ _id: 5f0c2d80931e7b31600a5351, firstName: 'Itay', lastName: 'Goz' }` and strict mode is set to throw.","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot set headers after they are sent to the client Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot set headers after they are sent to the client Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot set headers after they are sent to the client Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot set headers after they are sent to the client Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot set headers after they are sent to the client Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot set headers after they are sent to the client Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot set headers after they are sent to the client Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot set headers after they are sent to the client Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'addToSet' of undefined TypeError: Cannot read property 'addToSet' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'likes' of null TypeError: Cannot read property 'likes' of null","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'likes' of null TypeError: Cannot read property 'likes' of null","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'likes' of null TypeError: Cannot read property 'likes' of null","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'likes' of null TypeError: Cannot read property 'likes' of null","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'likes' of null TypeError: Cannot read property 'likes' of null","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'likes' of null TypeError: Cannot read property 'likes' of null","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'likes' of null TypeError: Cannot read property 'likes' of null","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'likes' of null TypeError: Cannot read property 'likes' of null","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'likes' of null TypeError: Cannot read property 'likes' of null","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'likes' of null TypeError: Cannot read property 'likes' of null","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'addToSet' of null TypeError: Cannot read property 'addToSet' of null","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'likes' of null TypeError: Cannot read property 'likes' of null","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"mongoose is not defined ReferenceError: mongoose is not defined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"mongoose is not defined ReferenceError: mongoose is not defined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"next is not defined ReferenceError: next is not defined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Can't use $elemMatch Error: Can't use $elemMatch","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Invalid argument TypeError: Invalid argument","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Invalid argument TypeError: Invalid argument","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot use the part (user) of (likes.user._id) to traverse the element ({likes: [ { _id: ObjectId('5f0d8c515480821990175bce'), user: { _id: ObjectId('5f0c2d80931e7b31600a5351'), firstName: \"Itay\", lastName: \"Goz\" } } ]}) MongoError: Cannot use the part (user) of (likes.user._id) to traverse the element ({likes: [ { _id: ObjectId('5f0d8c515480821990175bce'), user: { _id: ObjectId('5f0c2d80931e7b31600a5351'), firstName: \"Itay\", lastName: \"Goz\" } } ]})","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot use the part (user) of (likes.user._id) to traverse the element ({likes: [ { _id: ObjectId('5f0d8c515480821990175bce'), user: { _id: ObjectId('5f0c2d80931e7b31600a5351'), firstName: \"Itay\", lastName: \"Goz\" } } ]}) MongoError: Cannot use the part (user) of (likes.user._id) to traverse the element ({likes: [ { _id: ObjectId('5f0d8c515480821990175bce'), user: { _id: ObjectId('5f0c2d80931e7b31600a5351'), firstName: \"Itay\", lastName: \"Goz\" } } ]})","level":"error"}
+{"message":"Cannot use the part (user) of (likes.user._id) to traverse the element ({likes: [ { _id: ObjectId('5f0d8c515480821990175bce'), user: { _id: ObjectId('5f0c2d80931e7b31600a5351'), firstName: \"Itay\", lastName: \"Goz\" } } ]}) MongoError: Cannot use the part (user) of (likes.user._id) to traverse the element ({likes: [ { _id: ObjectId('5f0d8c515480821990175bce'), user: { _id: ObjectId('5f0c2d80931e7b31600a5351'), firstName: \"Itay\", lastName: \"Goz\" } } ]})","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot use the part (user) of (likes.user) to traverse the element ({likes: [ { _id: ObjectId('5f0d8c515480821990175bce'), user: { _id: ObjectId('5f0c2d80931e7b31600a5351'), firstName: \"Itay\", lastName: \"Goz\" } } ]}) MongoError: Cannot use the part (user) of (likes.user) to traverse the element ({likes: [ { _id: ObjectId('5f0d8c515480821990175bce'), user: { _id: ObjectId('5f0c2d80931e7b31600a5351'), firstName: \"Itay\", lastName: \"Goz\" } } ]})","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'id' of undefined TypeError: Cannot read property 'id' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'id' of undefined TypeError: Cannot read property 'id' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'path' of undefined TypeError: Cannot read property 'path' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'path' of undefined TypeError: Cannot read property 'path' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'path' of undefined TypeError: Cannot read property 'path' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'path' of undefined TypeError: Cannot read property 'path' of undefined","level":"error"}
+{"message":"Unexpected field MulterError: Unexpected field","level":"error"}
+{"message":"Unexpected field MulterError: Unexpected field","level":"error"}
+{"message":"Unexpected field MulterError: Unexpected field","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Unexpected field data","level":"error"}
+{"message":"Unexpected field","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Unexpected field MulterError: Unexpected field","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Error: Images Only! Error: Error: Images Only!","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Error: Images Only! Error: Error: Images Only!","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Error: Only .png, .jpg and .jpeg .gif format allowed! Error: Error: Only .png, .jpg and .jpeg .gif format allowed!","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null } MongoError: E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null }","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'files' of undefined TypeError: Cannot read property 'files' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null } MongoError: E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null }","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null } MongoError: E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null }","level":"error"}
+{"message":"E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null } MongoError: E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null }","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null } MongoError: E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null }","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null } MongoError: E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null }","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null } MongoError: E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null }","level":"error"}
+{"message":"E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null } MongoError: E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null }","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null } MongoError: E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null }","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null } MongoError: E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null }","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null } MongoError: E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null }","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null } MongoError: E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null }","level":"error"}
+{"message":"Cannot read property 'forEach' of undefined TypeError: Cannot read property 'forEach' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null } MongoError: E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null }","level":"error"}
+{"message":"Unexpected field MulterError: Unexpected field","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'path' of undefined TypeError: Cannot read property 'path' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null } MongoError: E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null }","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null } MongoError: E11000 duplicate key error collection: my-social-network.posts index: likes.user_1 dup key: { likes.user: null }","level":"error"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property '_id' of undefined TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'path' of undefined TypeError: Cannot read property 'path' of undefined","level":"error"}
+{"message":"Cannot read property 'path' of undefined TypeError: Cannot read property 'path' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"appendToDelete is not defined ReferenceError: appendToDelete is not defined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Cast to ObjectId failed for value \"pending\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"pending\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"pendings\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Cast to ObjectId failed for value \"'pendings'\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"'pendings'\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"appendToDelete is not defined ReferenceError: appendToDelete is not defined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'lastName' of undefined TypeError: Cannot read property 'lastName' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property 'lastName' of undefined TypeError: Cannot read property 'lastName' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Multipart: Boundary not found Error: Multipart: Boundary not found","level":"error"}
+{"message":"Multipart: Boundary not found Error: Multipart: Boundary not found","level":"error"}
+{"message":"Multipart: Boundary not found Error: Multipart: Boundary not found","level":"error"}
+{"message":"Multipart: Boundary not found Error: Multipart: Boundary not found","level":"error"}
+{"message":"Multipart: Boundary not found Error: Multipart: Boundary not found","level":"error"}
+{"message":"Multipart: Boundary not found Error: Multipart: Boundary not found","level":"error"}
+{"message":"Cannot read property 'path' of undefined TypeError: Cannot read property 'path' of undefined","level":"error"}
+{"message":"Cannot read property 'path' of undefined TypeError: Cannot read property 'path' of undefined","level":"error"}
+{"message":"Cannot read property 'path' of undefined TypeError: Cannot read property 'path' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"Cannot read property '_id' of undefined TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"me\" at path \"_id\" for model \"Post\" CastError: Cast to ObjectId failed for value \"me\" at path \"_id\" for model \"Post\"","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File too large MulterError: File too large","level":"error"}
+{"message":"File too large MulterError: File too large","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"Cast to ObjectId failed for value \"requests\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"requests\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Cast to ObjectId failed for value \"requests\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"requests\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"User\" CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"User\"","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Post\" CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Post\"","level":"error"}
+{"message":"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Post\" CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Post\"","level":"error"}
+{"message":"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Post\" CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Post\"","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Cannot read property '_id' of undefined TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}
+{"message":"File uploaded to db & deleted from storage succefully","level":"info"}

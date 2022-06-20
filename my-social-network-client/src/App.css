@@ -1,0 +1,22 @@
+.fullsize {
+  height: 90%;
+}
+
+.popup-overlay {
+  background: rgba(93, 99, 99, 0.541);
+}
+
+.popup-content {
+  height: 100%;
+  width: 25%;
+}
+
+.text-sm {
+  font-size: small;
+}
+
+.thumb {
+  object-fit: cover;
+  width: 100px !important;
+  height: 100px !important;
+}
